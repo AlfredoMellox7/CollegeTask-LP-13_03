@@ -1,0 +1,14 @@
+C:\cSharpAulas\tde_13_03\bin\Debug\net8.0\tde_13_03.exe
+C:\cSharpAulas\tde_13_03\bin\Debug\net8.0\tde_13_03.deps.json
+C:\cSharpAulas\tde_13_03\bin\Debug\net8.0\tde_13_03.runtimeconfig.json
+C:\cSharpAulas\tde_13_03\bin\Debug\net8.0\tde_13_03.dll
+C:\cSharpAulas\tde_13_03\bin\Debug\net8.0\tde_13_03.pdb
+C:\cSharpAulas\tde_13_03\obj\Debug\net8.0\tde_13_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpAulas\tde_13_03\obj\Debug\net8.0\tde_13_03.AssemblyInfoInputs.cache
+C:\cSharpAulas\tde_13_03\obj\Debug\net8.0\tde_13_03.AssemblyInfo.cs
+C:\cSharpAulas\tde_13_03\obj\Debug\net8.0\tde_13_03.csproj.CoreCompileInputs.cache
+C:\cSharpAulas\tde_13_03\obj\Debug\net8.0\tde_13_03.dll
+C:\cSharpAulas\tde_13_03\obj\Debug\net8.0\refint\tde_13_03.dll
+C:\cSharpAulas\tde_13_03\obj\Debug\net8.0\tde_13_03.pdb
+C:\cSharpAulas\tde_13_03\obj\Debug\net8.0\tde_13_03.genruntimeconfig.cache
+C:\cSharpAulas\tde_13_03\obj\Debug\net8.0\ref\tde_13_03.dll
